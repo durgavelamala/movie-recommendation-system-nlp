@@ -66,10 +66,10 @@ recommend("Avatar")
 ## Data Visualizations
 
 ### Top Genres Chart
-![Genres](screenshots/top_genres_chart.png)
+Attached in screenshots folder
 
 ### Recommendation Output
-![Recommendation](screenshots/recommendation_output.png)
+Attached in screenshots folder
 
 ---
 
