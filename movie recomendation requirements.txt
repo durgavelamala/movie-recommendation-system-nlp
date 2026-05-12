@@ -1,0 +1,8 @@
+Requirements to the project to run
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
